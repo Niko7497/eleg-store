@@ -1,0 +1,14 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip38_3928">
+			<rect id="outline/shopping bag" width="24.000000" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip38_3928)">
+		<path id="Rectangle 773" d="M15 6L15 7C15 8.65685 13.6567 10 12 10C10.3433 10 9 8.65685 9 7L9 6" stroke="#141718" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Rectangle 772" d="M15.6116 3C17.5669 3 19.2356 4.41365 19.5571 6.34241L21.2239 16.3424C21.6301 18.7805 19.75 21 17.2783 21L6.72192 21C4.25024 21 2.37012 18.7805 2.77637 16.3424L4.44312 6.34241C4.7644 4.41365 6.43335 3 8.38867 3L15.6116 3Z" stroke="#141718" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+	</g>
+</svg>
